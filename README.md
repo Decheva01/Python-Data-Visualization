@@ -1,5 +1,5 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# Determinants of Loan Outcome Status in Prosper P2P Loan Data
+## by Cvetana Decheva
 
 
 ## Dataset
